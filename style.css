@@ -120,9 +120,9 @@ body {
 
 .name {
     /* background: linear-gradient(to right,#ec69aa 0%, #1be4e4 100%); */
-    background: #ddd;
+    background: transprant;
     background-clip: text;
-    color: transparent;
+    color:white;
     font-size: clamp(30px, 4vw, 70px);
     position: relative;
 
