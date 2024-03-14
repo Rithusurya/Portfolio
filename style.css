@@ -845,6 +845,7 @@ body {
 .contact-list li a:hover {
     transform: scale(1.01) translateY(-5px);
     color: #0ef;
+    text-decoration:none;
 }
 
 .contact-icons i {
